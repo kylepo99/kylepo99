@@ -1,6 +1,4 @@
-- 👋 Hello I'm Kyle,
-- I have been programming for a few years now, mostly trying to fund my eBay addiction.
-- I am currently pursing a Bachelor of Science in Computer Science
+
 
 <!---
 
